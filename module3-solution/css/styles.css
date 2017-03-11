@@ -57,12 +57,13 @@ section {
   padding: 15px;
 }
 
-section h1 {
+section h3 {
   text-align: center;
+  margin-top: -5px;
 }
 
 section div {
   text-align: justify;
-  background-color: #fec990;
   padding: 15px;
+  background-color: #fec990;
 }
